@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leonidas Karagkounis</h1>
 <h3 align="center"><b>Computer Science Student from Greece</b></h3><br>
 <h4 align="center"><b>Education <br></b> BSc Computer Science, Hellenic Open University (Pending 2022)<br>Department of Mathematics, Aristotle University of Thessaloniki</h4>
-<br>
+
 <h4 align="center"><b>Future Education Plans</b>
 <br>MSc Data Science and Machine Learning, Hellenic Open University (2022)</h4> \
 
 <h4 align="center"> 🌱 I’m currently learning **Machine Learning, Deep Learning and Cyber Security** </h4>
-<br>
 <p align="left">
 </p>
 
