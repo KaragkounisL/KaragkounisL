@@ -3,7 +3,7 @@
 <h4 align="center"><b>Education <br></b> BSc Computer Science, Hellenic Open University (Pending 2022)<br>Department of Mathematics, Aristotle University of Thessaloniki</h4>
 
 <h4 align="center"><b>Future Education Plans</b>
-<br>MSc Data Science and Machine Learning, Hellenic Open University (2022)</h4>
+<br>MSc Data Science and Machine Learning, Hellenic Open University</h4>
 
 <h4 align="center"><b>Academic Research Interest</b>
 <br>Machine Learning Methods for Real Time Network Intrusion Detection</h4>
