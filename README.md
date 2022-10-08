@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonidas Karagkounis</h1>
-<h3 align="center"><b>Computer Science Student from Greece</b></h3>
+<h3 align="center"><b>Computer Scientist from Greece</b></h3>
 <h4 align="center"><b>Education <br></b> BSc Computer Science, Hellenic Open University <br>Department of Mathematics, Aristotle University of Thessaloniki</h4>
 
 <h4 align="center"><b>Future Education Plans</b>
