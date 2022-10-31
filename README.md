@@ -27,14 +27,14 @@
 </p>
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <br/>
-<h4 align="center">**Education**
-<br> BSc Computer Science, Hellenic Open University <br>Department of Mathematics, Aristotle University of Thessaloniki</h4>
+<h3 align="center">Education</h3>
+<p align=center>BSc Computer Science, Hellenic Open University <br>Department of Mathematics, Aristotle University of Thessaloniki</p>
 
-<h4 align="center">**Future Education Plans**
-<br>MSc Data Science and Machine Learning, Hellenic Open University</h4>
+<h3 align="center">Future Education Plans</h3>
+<p align=center>MSc Data Science and Machine Learning, Hellenic Open University</p>
 
-<h4 align="center">**Academic Research Interest**
-<br>Detecting Social Engineering Attacks using Natural Language Processing and Deep Learning</h4>
+<h3 align="center">**Academic Research Interest</h3>
+<p align=center>Detecting Social Engineering Attacks using Natural Language Processing and Deep Learning</p>
 <br/>
 
 <h2 align="center">
