@@ -53,7 +53,7 @@
   <a href="https://github.com/KaragkounisL/University-WebSite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KaragkounisL&repo=University-WebSite&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="University-WebSite"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/0xTRAW?tab=repositories&q=&type=&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/KaragkounisL?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 <h2 align="center">
  🛠️ My favorite tools
