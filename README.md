@@ -9,7 +9,7 @@
 </p>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/@lkaragkounis"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
+  <a href="https://twitter.com/@lkaragkounis"><img width="31px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://linkedin.com/in/leonidas-karagkounis-069756145" alt="LinkedIn"><img width="32px" height="26px"  src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mylinkedinicon.png"/></a>
 </p>
