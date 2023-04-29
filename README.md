@@ -33,7 +33,7 @@
 <p align=center>MSc Data Science and Machine Learning, Hellenic Open University</p>
 
 <h3 align="center">Academic Research Interest</h3>
-<p align=center>Detecting Social Engineering Attacks using Natural Language Processing and Deep Learning</p>
+<p align=center>Detecting Social Engineering Attacks using Deep Learning</p>
 <br/>
 
 <h2 align="center">
