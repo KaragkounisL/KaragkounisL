@@ -22,7 +22,7 @@
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <br/>
 <h3 align="center">Education</h3>
-<p align=center>BSc Computer Science, Hellenic Open University <br>Department of Mathematics, Aristotle University of Thessaloniki <br>MSc Data Science and Machine Learning, Hellenic Open University (In Progress)</p>
+<p align=center>MSc Data Science and Machine Learning, Hellenic Open University (In Progress)<br>BSc Computer Science, Hellenic Open University <br>Department of Mathematics, Aristotle University of Thessaloniki </p>
 
 <h3 align="center">Future Education Plans</h3>
 <p align=center>PhD Detecting Social Engineering Attacks using Deep Learning</p>
