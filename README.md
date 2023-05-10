@@ -16,11 +16,6 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-   <img alt="follow twitter" title="Follow Twitter" src="https://img.shields.io/twitter/follow/LKaragkounis?color=%2355960&logo=person-fill&label=twitter&style=for-the-badge&labelColor=1DA1F2"/></a> 
-  <a href="https://github.com/KaragkounisL?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/KaragkounisL?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/KaragkounisL?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/KaragkounisL?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://komarev.com/ghpvc/?username=KaragkounisL">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=KaragkounisL&style=for-the-badge&color=grey"/></a>
 </p>
@@ -28,12 +23,11 @@
 <br/>
 <h3 align="center">Education</h3>
 <p align=center>BSc Computer Science, Hellenic Open University <br>Department of Mathematics, Aristotle University of Thessaloniki</p>
+<p align=center>MSc Data Science and Machine Learning, Hellenic Open University (In Progress)</p>
 
 <h3 align="center">Future Education Plans</h3>
-<p align=center>MSc Data Science and Machine Learning, Hellenic Open University</p>
+<p align=center>PhD Detecting Social Engineering Attacks using Deep Learning</p>
 
-<h3 align="center">Academic Research Interest</h3>
-<p align=center>Detecting Social Engineering Attacks using Deep Learning</p>
 <br/>
 
 <h2 align="center">
