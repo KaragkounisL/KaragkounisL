@@ -7,14 +7,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A02CFD&width=435&lines=Hi!+Leonidas+Karagkounis+here.;Data+Analyst%2C+Cyber+Security+and;Machine+Learning+enthusiast." alt="Typing SVG" /></a>
 </p>
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://twitter.com/@lkaragkounis"><img width="31px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
-  <a href="https://linkedin.com/in/leonidas-karagkounis-069756145" alt="LinkedIn"><img width="32px" height="26px"  src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mylinkedinicon.png"/></a>
-</p>
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=KaragkounisL">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=KaragkounisL&style=for-the-badge&color=grey"/></a>
