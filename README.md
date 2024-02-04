@@ -33,7 +33,6 @@
   <a href="https://github.com/KaragkounisL/Python-Projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KaragkounisL&repo=Python-Projects&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Python-Projects"></a>
   <a href="https://github.com/KaragkounisL/TryHackMe-Writeups"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KaragkounisL&repo=TryHackMe-Writeups&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="TryHackMe-Writeups"></a>
   <a href="https://github.com/KaragkounisL/C"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=KaragkounisL&repo=C&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="C"></a>
-  <a href="https://github.com/KaragkounisL/Mathematics"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KaragkounisL&repo=Mathematics&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mathematics"></a>
   <a href="https://github.com/KaragkounisL/University-WebSite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KaragkounisL&repo=University-WebSite&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="University-WebSite"></a>
 </p>
 <p align="center">
