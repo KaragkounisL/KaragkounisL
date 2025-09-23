@@ -17,7 +17,7 @@
 <p align=center>PhD Candidate, University of Macedonia<br>MSc Data Science and Machine Learning, Hellenic Open University <br>BS Computer Science, Hellenic Open University <br>Department of Mathematics, Aristotle University of Thessaloniki </p>
 
 <h3 align="center">Research Interests</h3>
-<p align=center>Explainable AI (XAI) | Cybersecurity | Reinforcement Learning | Intelligent Tutoring Systems</p>
+<p align=center>Explainable AI | Cybersecurity | Reinforcement Learning | Intelligent Tutoring Systems</p>
 
 <br/>
 
